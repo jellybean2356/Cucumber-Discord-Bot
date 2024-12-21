@@ -15,7 +15,6 @@ hello thank you for using cucumber, the best bot ever made.
 **github** - sends link to our github repo
 **coinflip** - flip a coin
 **randomcolor** - generate random color
-**meme** - posts random meme
 **mute** - mute users (admin only)
 **unmute** - unmute users (admin only)
 **userinfo** - send information about an user
@@ -23,5 +22,8 @@ hello thank you for using cucumber, the best bot ever made.
 **meme** - send random meme
 **server** - send invite to cucumber community official
 **dice** - throw a dice
+**clearhistory** - removes chat history for an AI (if active) in specific channel
+**removeai** - removes AI (if active) from specific channel
+**setupai** - setup AI in specific channel
 
 ***bro who uses help screens in 2024 :skull:***
