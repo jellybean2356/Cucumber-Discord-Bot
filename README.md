@@ -27,7 +27,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/jellybean2356/Cucumber-Discord-Bot/main/images/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/jellybean2356/Cucumber-Discord-Bot/main/images/screenshot.png)
 
 ## Key Features
 
