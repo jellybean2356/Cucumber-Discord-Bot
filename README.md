@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.cucumber.mdnet.sk"><img src="https://raw.githubusercontent.com/jellybean2356/Cucumber-Discord-Bot/main/Images/icon.png" alt="Cucumber Discord Bot" width="200"></a>
+  <a href="http://www.cucumber.mdnet.sk"><img src="https://raw.githubusercontent.com/jellybean2356/Cucumber-Discord-Bot/main/images/icon.png" alt="Cucumber Discord Bot" width="200"></a>
   <br>
   Cucumber Discord Bot
   <br>
@@ -27,7 +27,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/jellybean2356/Cucumber-Discord-Bot/main/Images/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/jellybean2356/Cucumber-Discord-Bot/main/images/Screenshot.png)
 
 ## Key Features
 
